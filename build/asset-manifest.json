@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94c7804e.css",
+    "main.js": "/static/js/main.d651173e.js",
+    "static/media/pexels-cátia-matos-1072179.jpg": "/static/media/pexels-cátia-matos-1072179.b1056b008c3c516f54b6.jpg",
+    "static/media/pexels-evie-shaffer-2512282.jpg": "/static/media/pexels-evie-shaffer-2512282.2504b877ac4c6116c6ae.jpg",
+    "index.html": "/index.html",
+    "main.94c7804e.css.map": "/static/css/main.94c7804e.css.map",
+    "main.d651173e.js.map": "/static/js/main.d651173e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c7804e.css",
+    "static/js/main.d651173e.js"
+  ]
+}
