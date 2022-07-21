@@ -1,0 +1,14 @@
+.main {
+    font-family: 'Noto Serif', serif;
+    background-image: url('/public/images/pexels-evie-shaffer-2512282.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+    justify-items: center;
+    box-shadow: 0 4px 6px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
+}
